@@ -8,3 +8,4 @@
 ![css](https://user-images.githubusercontent.com/54549934/93969089-b1e25080-fd88-11ea-8ff6-16d721c451e1.png)
 ![bootstrap](https://user-images.githubusercontent.com/54549934/93969110-be66a900-fd88-11ea-8d93-731a49dda9cf.png)
 ![js](https://user-images.githubusercontent.com/54549934/93969585-d7238e80-fd89-11ea-9f99-be41b751c27e.png)
+![AngularJS](https://user-images.githubusercontent.com/101792073/217309212-11dc9134-052c-4d6d-8183-ba04d6ed4b60.png)
